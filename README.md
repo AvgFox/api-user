@@ -23,11 +23,8 @@ npm install
 
 Como rodar o projeto
 Clone o repositório:
-
-bash
-Copiar
-Editar
 git clone https://github.com/AvgFox/api-user.git
+
 Instale as dependências:
 npm install
 
