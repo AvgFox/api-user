@@ -9,7 +9,7 @@ Validator (para validação de dados)
 Dotenv (para variáveis de ambiente)
 Body-Parser (para interpretar JSON e URL-encoded)
 
-Dependências
+Dependências 
 Instale todas as dependências com:
 npm install
 "dependencies": {
